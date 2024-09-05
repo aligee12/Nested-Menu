@@ -1,0 +1,51 @@
+{
+    "menu": [
+      {
+        "title": "Home",
+        "link": "/home"
+      },
+      {
+        "title": "About",
+        "link": "/about",
+        "submenu": [
+          {
+            "title": "Our Team",
+            "link": "/about/our-team"
+          },
+          {
+            "title": "Our Story",
+            "link": "/about/our-story"
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "link": "/services",
+        "submenu": [
+          {
+            "title": "Consulting",
+            "link": "/services/consulting"
+          },
+          {
+            "title": "Development",
+            "link": "/services/development",
+            "submenu": [
+              {
+                "title": "Web Development",
+                "link": "/services/development/web"
+              },
+              {
+                "title": "Mobile Development",
+                "link": "/services/development/mobile"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Contact",
+        "link": "/contact"
+      }
+    ]
+  }
+  
